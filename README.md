@@ -39,8 +39,8 @@ The chatbot is built using Python, the OpenAI API for generating responses, and 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/character-style-chatbot.git
-   cd character-style-chatbot
+   git clone https://github.com/jorge-armando-navarro-flores/Character-Style_Chatbot.git
+   cd Character-Style_Chatbot
    ```
 
 2. Create a virtual environment and install the dependencies:
